@@ -20,7 +20,7 @@ This is a simple landing page project. The landing page is designed to be clean 
 To get started with this project, simply download or clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/<username>/<repository>.git
+git clone https://github.com/anevski-stefan/landing-page.git
 ```
 
 After cloning the repository, open index.html in your web browser to view the landing page.
