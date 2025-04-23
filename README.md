@@ -1,33 +1,52 @@
-
 # Landing Page
 
-This is a simple landing page project. The landing page is designed to be clean and minimalistic, with a focus on presenting important information in a clear and concise manner
-
-
-
-
+A modern, responsive landing page showcasing a product with a clean and minimalistic design. This project demonstrates a professional web layout with various interactive elements and a beautiful image gallery.
 
 ## Features
 
-- Clean and minimalistic design
-- Responsive layout for desktop and mobile devices: The landing page has been designed to provide a user-friendly interface that enables easy navigation and access to important information. The layout is clean and simple, making it easy for users to find what they are looking for.
-- Image Gallery: An image gallery has been implemented that uses lightbox to display images in a visually appealing way. Users can easily navigate through images by clicking on them.
+- Modern and responsive design that works on all devices
+- Clean navigation with smooth scrolling
+- Interactive image gallery with lightbox functionality
+- Newsletter subscription form
+- Social media integration
+- Company information section
+- Blog posts section
 
+## Technologies Used
 
+- HTML5
+- CSS3
+- JavaScript
+- Font Awesome for icons
+- Google Fonts (Catamaran)
+- jQuery
+- Lightbox for image gallery
 
 ## Getting Started
 
-To get started with this project, simply download or clone the repository to your local machine.
+To get started with this project:
 
+1. Clone the repository:
 ```bash
 git clone https://github.com/anevski-stefan/landing-page.git
 ```
 
-After cloning the repository, open index.html in your web browser to view the landing page.
+2. Open the project folder and launch `index.html` in your web browser.
 
+No additional setup or dependencies installation is required as the project uses CDN-hosted libraries.
 
+## Project Structure
 
+```
+landing-page/
+├── css/           # Stylesheet files
+├── js/            # JavaScript files
+├── img/           # Image assets
+├── index.html     # Main HTML file
+├── LICENSE        # MIT license file
+└── README.md      # Project documentation
+```
 
 ## License
 
-This project is licensed under the MIT license. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
