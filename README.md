@@ -35,18 +35,6 @@ git clone https://github.com/anevski-stefan/landing-page.git
 
 No additional setup or dependencies installation is required as the project uses CDN-hosted libraries.
 
-## Project Structure
-
-```
-landing-page/
-├── css/           # Stylesheet files
-├── js/            # JavaScript files
-├── img/           # Image assets
-├── index.html     # Main HTML file
-├── LICENSE        # MIT license file
-└── README.md      # Project documentation
-```
-
 ## License
 
 This project is licensed under the [MIT LICENSE](LICENSE) - see the [LICENSE](LICENSE) file for details.
